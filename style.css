@@ -154,6 +154,10 @@ nav {
     padding-bottom: 10px;
 }
 
+.vectors{
+    margin: 0px 5px;
+}
+
 h2 {
     text-align: left;
     font-weight: 700;
@@ -200,10 +204,10 @@ h2 {
 }
 
 .container1 {
-    font-size: 20px;
+    font-size: 1px;
     text-align: center;
-    justify-content: center;
-    margin-top: 500px;
+    justify-content: space-between;
+    margin-top: 200px;
 }
 
 h3 {
