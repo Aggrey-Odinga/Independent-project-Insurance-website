@@ -50,6 +50,11 @@ nav {
     z-index: 1;
 }
 
+.motto{
+    margin-top: 0px;
+
+}
+
 ul.demo{
     list-style-type: none;
     text-align: left;
