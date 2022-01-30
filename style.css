@@ -158,16 +158,40 @@ h5.demo1{
 
 .book{
     background-color: white;
+    text-align: center;
+    width: 80%;
+    margin-bottom: -100px;
+
+}
+
+.contact{
+    margin-top: 150px;
+}
+
+.contact1{
+    text-align: left;
+}
+
+.contact2{
+    text-align: right;
 }
 
 .form1{
     text-align: left;
+    margin-left: 50px;
 }
 
 input[type=text]{
     border-color: black; 
-    background-color: rgb(245, 240, 240);
-    size: 100px;
+    background-color: rgb(248, 245, 245);
+    width: 500px;
+    size: 500px;
+}
+
+.formImage{
+    text-align: left;
+    margin-left: 0px;
+    float: left;
 }
 
 .col {
