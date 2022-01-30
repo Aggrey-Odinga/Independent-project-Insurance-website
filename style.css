@@ -10,6 +10,7 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    opacity: 0.9;
 }
 nav {
     display: flex;
@@ -441,11 +442,12 @@ h4 {
   margin: 20px;
   border-radius: 10px 10px 10px 10px;
   background: white;
-  box-shadow: 5px 10px 20px #040f74;
+  box-shadow: 5px 10px 20px #c7c7cc;
 }
 .card:hover {
     transform: scale(1.1);
-    /* background-color: #040f74; */
+    background-color: #0b0b2e;
+    
 }
 
 .info 
