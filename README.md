@@ -11,7 +11,7 @@ This is an insurance website layout. It depicts the use of html and css to make 
 *Ensure you have access to a browser via phone, tablet or computer. 
 *Click on the live link in the about section
 
-#### Technology Used
+### Technology Used
 *Vs-code editor which was used to key in html and css features for styling the page.
 
 ## license
