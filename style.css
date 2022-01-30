@@ -320,7 +320,36 @@ h4 {
     box-shadow: 0 0 20px 9px #ff61241f;
     border-radius: 30px;
 }
+.box-container {
+    width: 100%;
+    max-width: 1440px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: wrap;
+}
+.box {
+    width: 269px;
+    padding: 15px;
+    min-height: 430px;
+}
+.box1 {
+    background-color: hsl(31, 77%, 52%);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
 
+}
+.box2 {
+    background-color: hsl(184, 100%, 22%);
+}
+.box3 {
+    background-color: hsl(31, 77%, 52%);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.content {
+    padding: 10px;
+}
 
 
 
