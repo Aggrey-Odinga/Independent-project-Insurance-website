@@ -156,6 +156,20 @@ h5.demo1{
     background-color: rgb(46, 46, 71);
 }
 
+.book{
+    background-color: white;
+}
+
+.form1{
+    text-align: left;
+}
+
+input[type=text]{
+    border-color: black; 
+    background-color: rgb(245, 240, 240);
+    size: 100px;
+}
+
 .col {
     width: 10px;
     height: 200px;
