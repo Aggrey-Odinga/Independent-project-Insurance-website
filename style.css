@@ -224,7 +224,8 @@ input[type=text]{
 .col-2 {
     margin: 10px, 20px,0px, 0px;
     padding: 30px;
-    border-width: 100px;
+    justify-content: space-between;
+
 }
 
 
