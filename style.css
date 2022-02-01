@@ -207,8 +207,8 @@ input[type=text]{
 .col {
     width: 10px;
     height: 200px;
-    margin: 200px 0px 20px 20px;
-    flex: 1 1 30rem;
+    margin: 900px 0px 100px 10px;
+    flex: 0 100 300rem;
     box-shadow: 0.3rem 0.5rem rgba(0, 0, 0, 0.08);
     /*flex-basis: 31%;*/
     background: #fff;
@@ -220,6 +220,15 @@ input[type=text]{
     box-sizing: border-box;
     text-align: left;
 }
+
+.col-2 {
+    margin: 10px, 20px,0px, 0px;
+    padding: 30px;
+    border-width: 100px;
+}
+
+
+
 .col1 {
     /* width: 10px;
     height: 200px; */
@@ -545,9 +554,6 @@ p {
 .footer {
     background-color: #fff;
 }
-
-
-
 
 
 
