@@ -9,7 +9,6 @@
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/cover.png);
     background-size: cover;
     background-position: center;
-    position: relative;
     opacity: 0.9;
 }
 nav {
@@ -53,6 +52,14 @@ nav {
     position: relative;
     color: #23A6F0;
     z-index: 1;
+}
+
+.POM{
+    margin-bottom: -1100px;
+}
+
+.POM1{
+    margin-top: 250px;
 }
 
 .motto{
@@ -122,6 +129,23 @@ h5.demo1{
 .text-btn a:hover span {
     width: 100%;
 }
+
+.row-b {
+    padding: 15px;
+    margin: 50px 0 50px 0;
+    /* width: 60%; */
+    display: flex;
+    /*flex-direction: column;*/
+    justify-content: center;
+    /*border: 2px solid black;*/
+    
+    
+
+}
+
+
+
+
 .row{
     margin-top: 50%;
     /* width: 60%; */
